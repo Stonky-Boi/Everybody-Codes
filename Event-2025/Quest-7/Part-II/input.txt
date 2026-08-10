@@ -1,0 +1,26 @@
+Silaris,Silxaril,Oryox,Ulkxith,Orymyr,Kazeon,Oryxaril,Xanaris,Soraris,Kazwyris,Silxith,Zaratharis,Sillon,Selkmyr,Iskarxaril,Xanox,Iskarmyr,Iskareon,Kazmyr,Xanmyr,Iskarwyris,Xanwyris,Sileon,Selkwyris,Selksor,Ulksor,Xaneon,Oryaris,Kazox,Phyrmyr,Zarathmyr,Xanxith,Soreon,Silox,Ulkxaril,Kazlon,Xanxaril,Kazaris,Phyrsor,Orymyr,Sorox,Selkeon,Phyrox,Phyrxaril,Kazsor,Selkaris,Ulklon,Sormyr,Zarathxaril,Oryeon,Orysor,Iskarsor,Xansor,Iskarlon,Ulkaris,Zarathsor,Sorwyris,Selklon,Zaratheon,Sorsor,Zarathlon,Silmyr,Zarathwyris,Ulkmyr,Selkxaril,Silwyris,Zarathox,Sorlon,Ulkox,Phyrmyr,Phyrwyris,Selkmyr,Oryxith,Zarathmyr,Kazxith,Ulkmyr,Iskarox,Zarathxith,Kazxaril,Selkxith,Xanmyr,Orywyris,Sorxith,Phyreon,Kazmyr,Iskarxith,Iskararis,Xanlon,Ulkeon,Silsor,Silmyr,Phyrlon,Sorxaril,Orylon,Iskarmyr,Ulkwyris,Phyrxith,Phyraris,Selkox,Sormyr
+
+a > r,v,t
+k > o,a,m,s,w,x,l,e
+K > a
+s > o,v
+e > v,o
+w > y
+O > r
+i > l,s,t,v
+X > a
+S > e,i,o
+z > o,a,m,s,w,x,l,e
+I > s
+t > h
+l > k,o,a,m,s,w,x,l,e,v
+n > o,a,m,s,w,x,l,e
+x > a,i
+Z > a
+r > y,i,a,o,m,s,w,x,l,e,v
+U > l
+y > x,r,o,a,m,s,w,l,e
+h > o,a,m,s,w,x,l,e,v
+o > x,r,n,v
+m > y
+P > h

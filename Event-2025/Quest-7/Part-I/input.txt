@@ -1,0 +1,16 @@
+Ulcion,Thazendris,Drazendris,Thazonar,Thazcion,Drazcion,Ulendris,Drazonar,Ulonar
+
+U > l
+c > i
+l > e,b
+i > s,o
+r > i,b
+e > n
+T > h
+a > z,r
+d > r
+o > n
+n > d,a
+h > b
+D > r
+z > e,o,c

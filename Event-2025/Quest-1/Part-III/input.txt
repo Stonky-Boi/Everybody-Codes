@@ -1,0 +1,3 @@
+Zraalzeth,Krynnther,Zalverax,Mornxelor,Jarkynar,Paldvynar,Quorix,Nexadir,Gorathmal,Yndurath,Breltor,Vaelcoryx,Urnoris,Belulth,Ralhynd,Rytheth,Rahxeth,Aelithroth,Saronar,Ulkgarath,Iryneth,Thymxeth,Harfroth,Axalendris,Kronox,Ravasis,Martaril,Shaelfal,Elvarsar,Brynfroth
+
+L34,R37,L43,R43,L9,R21,L40,R31,L23,R13,L18,R34,L43,R48,L8,R30,L44,R28,L47,R26,L5,R41,L5,R25,L5,R7,L5,R19,L5,R28,L5,R9,L5,R8,L5,R35,L5,R27,L5,R35,L40,R36,L31,R24,L26,R14,L49,R7,L30,R10,L10,R23,L47,R7,L17,R11,L9,R44,L33
